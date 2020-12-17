@@ -1,0 +1,38 @@
+{
+	"pages": [
+
+	],
+	"subPackages": [
+
+	],
+	"window": {
+		"defaultTitle": "",
+		"backgroundTextStyle": "light",
+		"navigationBarBackgroundColor": "#fff",
+		"navigationBarTextStyle": "black",
+		"transparentTitle": "none",
+		"navigationStyle": "default"
+	},
+	"tabBar": {
+		"color": "#666666",
+		"selectedColor": "#FF5500",
+		"backgroundColor": "#ffffff",
+		"list": [
+			{
+				"pagePath": "pages/home/index",
+				"text": "首页",
+				"iconPath": "",
+				"selectedIconPath": ""
+			}
+		]
+	},
+	"permission": {
+		"scope.userLocation": {
+			"desc": "获取到当前城市定位信息"
+		}
+	},
+	"networkTimeout": {
+		
+	},
+	"sitemapLocation": "sitemap.json"
+}
